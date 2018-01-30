@@ -1,0 +1,23 @@
+Count = 20
+Levels = 7
+Id Level Name          Parent_id
+1  1     Evgen         0      
+2  2     Kate          1      
+4  3     Konon         2      
+8  4     Ilya          4      
+10 5     Nina          8      
+11 6     Polina        10     
+17 7     Rita          11     
+18 7     Tonya         11     
+12 6     Vova          10     
+9  4     Kirill        4      
+5  3     Ann           2      
+18 4     Molly         5      
+3  2     Max           1      
+6  3     Atrem         3      
+7  3     Olya          3      
+13 4     Todd          7      
+14 5     Fred          13     
+15 5     Liza          13     
+16 6     Mona          15     
+17 4     Jhonny        7      
